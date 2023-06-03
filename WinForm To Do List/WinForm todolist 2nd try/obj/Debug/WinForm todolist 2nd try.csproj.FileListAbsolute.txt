@@ -1,0 +1,11 @@
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\bin\Debug\WinForm todolist 2nd try.exe.config
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\bin\Debug\WinForm todolist 2nd try.exe
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\bin\Debug\WinForm todolist 2nd try.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm todolist 2nd try.csproj.AssemblyReference.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm todolist 2nd try.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm_todolist_2nd_try.Form1.resources
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm_todolist_2nd_try.Properties.Resources.resources
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm todolist 2nd try.csproj.GenerateResource.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm todolist 2nd try.csproj.CoreCompileInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm todolist 2nd try.exe
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm todolist 2nd try\WinForm todolist 2nd try\obj\Debug\WinForm todolist 2nd try.pdb
