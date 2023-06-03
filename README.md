@@ -1,5 +1,5 @@
 # To Do List App with Csharp and WinForm
-A simple yet functional to-do list application built with C# and Windows Forms for beginners (by techwithlinh)
+A simple yet functional to-do list application built with C# and Windows Forms for beginners (by techwithlinh and gpt4).
 
 ## Table of Contents
 - Features
@@ -14,13 +14,14 @@ A simple yet functional to-do list application built with C# and Windows Forms f
 ![Alt Text](todolist_app.png)
 
 ### Features
-This application allows you to:
+This simple to do list application allows you to:
 
 1. Add tasks with priorities
 2. Edit existing tasks
 3. Mark tasks as completed
 4. Remove tasks from the list
 5. Save tasks between sessions
+6. Set priorities
 
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
